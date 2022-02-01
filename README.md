@@ -1,1 +1,1 @@
-# KPMG-virtual-internship
+# KPMG-data-analytics-virtual-internship
